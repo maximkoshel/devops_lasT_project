@@ -7,7 +7,7 @@
 <title>Guru Registration Form</title>
 </head>
 <body>
-<h1>Ziv is the best after change</h1>
+<h1>Ziv is the best </h1>
 <form action="guru_register" method="post">
 			<table style="with: 50%">
 				<tr>
